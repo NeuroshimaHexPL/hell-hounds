@@ -104,6 +104,8 @@ In team play, allied players may also make use of the Hell Hounds Swap Zone, but
 
 Hell Hounds' turn. The Hell Hounds player draws two Battles and one Food module. There is already one Speed module and a damaged Mutant on the board which currently has no chance of damaging the Borgo HQ, since it will be killed in Initiative 2.
 
+The Swap Zone is marked by the colored spaces.
+
 ![](manual/swap-2.png)
 
 Since the Mutant is in the Swap Zone, the Hell Hounds player may use the Swap ability to take the Mutant back on their hand and play the Food module in its place. (The damage counter is discarded.)
@@ -122,6 +124,22 @@ The tugging unit must be a Hell Hounds unit, but the tugged unit may be any unit
 Tugging may not be used if the tugging or the tugged unit are under a Net.
 
 The Tugger is a unit with an innate Tugging skill, which may be used once per turn. The Tug instant tile allows the Hell Hounds player to perform Tugging once with any unit.
+
+#### Example
+
+![](manual/tug-1.png)
+
+Hell Hounds' turn.
+
+The Tugger is currently next to two tiles: the Outpost HQ and an Outpost Commando. The Hell Hounds player decides to Tug on the Commando, which is possible, because there is a possibility (marked by the colored spaces) for the Tugger to move away from the Commando.
+
+![](manual/tug-2.png)
+
+The Hell Hounds player decides to use the Tugging skill on the Tugger and the Commando. The first step is to move the Tugger away from the Commando and to rotate it in any way; the Hell Hounds player uses that to rotate the Tugger in a way which will shield it from the Commando if it decides to aim at it.
+
+![](manual/tug-3.png)
+
+Next, the Outpost player must move the Command into the space that was previously occupied by the Tugger. Since the Outpost player may now rotate the Commando in any way, they decide to aim at the neighboring space next to the HQ (since aiming it at the Tugger's armor is pointless).
 
 ## Contact
 * Mail: `phoe@disroot.org`
