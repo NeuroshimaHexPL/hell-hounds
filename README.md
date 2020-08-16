@@ -4,48 +4,83 @@
 
 ### HQ
 * HQ (*Sztab*) x1 - Ability: Swap
+
 ![](tiles/hq.png)
 
 ### Units
 * Tamer (*Hodowca*) x1 - Int3, Ranged x1
+
 ![](tiles/tamer.png)
+
 * Trainer (*Trener*) x2 - Int2, Ranged x1, Armor, Toughness
+
 ![](tiles/trainer.png)
+
 * Tugger (*Ciągacz*) x1 - Int3, Melee x1, Armor x2, Mobility, Tugging
+
 ![](tiles/tugger.png)
+
 * Beast (*Bestia*) x1 - Int1, Melee x1, Net in one direction
+
 ![](tiles/beast.png)
+
 * Brute (*Brutus*) x3 - Int2, 2S Melee x1, Melee x2
+
 ![](tiles/brute.png)
+
 * Mutant (*Mutant*) x1 - Int1, 3S Melee x1, Toughness
+
 ![](tiles/mutant.png)
+
 * Shadow (*Cień*) x2 - Int2, Melee x1, Armor x2, Toughness
+
 ![](tiles/shadow.png)
+
 * Wolf (*Wilk*) x2 - Int2, Melee x1, Toughness
+
 ![](tiles/wolf.png)
+
 * Cracker (*Petarda*) x2 - Int3, Melee x1
+
 ![](tiles/cracker.png)
+
 
 ### Modules
 * Cage (*Klatka*) x1 - -1 initiative x6
+
 ![](tiles/cage.png)
+
 * Bitch (*Suka*) x1 - Swap x6
+
 ![](tiles/bitch.png)
+
 * Medic (*Medyk*) x2 - Medic x3
+
 ![](tiles/medic.png)
+
 * Food (*Karma*) x2 - +1 melee x3
+
 ![](tiles/food.png)
+
 * Speed (*Speed*) x2 - +1 initiative x3
+
 ![](tiles/speed.png)
 
 ### Instant tiles
 * Push Back (*Odepchnięcie*) x1
+
 ![](tiles/push-back.png)
+
 * Battle (*Bitwa*) x6
+
 ![](tiles/battle.png)
+
 * Move (*Ruch*) x3
+
 ![](tiles/move.png)
+
 * Tug (*Ciąganie*) x1
+
 ![](tiles/tug.png)
 
 ## Skills
