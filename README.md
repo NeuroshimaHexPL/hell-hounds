@@ -1,5 +1,9 @@
 # HELL HOUNDS - version G
 
+## Download
+
+[PDF with tiles](tiles.pdf)
+
 ## Tiles
 
 ### HQ
