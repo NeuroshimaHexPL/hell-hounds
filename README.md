@@ -4,6 +4,8 @@
 
 The graphics on the tiles are not final and will be replaced once I manage to commission them; the current images are purely so the warrior tiles aren't empty.
 
+Thanks to Marek "Mar_cus" Szumny for eHECK2.
+
 ## Download
 
 [PDF with tiles](tiles.pdf)
