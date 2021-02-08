@@ -129,7 +129,7 @@ The supporting ability of the army is the Tugging ability. Tugging is a skill th
 
 The tugging unit first moves away from the tugged unit, as if it was pushed back from it, but it may rotate freely in the process. (If the tugging unit is unable to do so, then Tugging may not be used.) Then the tugged unit moves into the space that was previously occupied by the tugging unit, and it may rotate freely in the process.
 
-The tugging unit must be a Hell Hounds unit, but the tugged unit may be any unit on the board. Foundation tiles cannot be Tugged.
+The tugging unit must be a Hell Hounds unit, and the tugged unit must be an enemy unit. Foundation tiles cannot be Tugged.
 
 Tugging may not be used if the tugging or the tugged unit are under a Net.
 
