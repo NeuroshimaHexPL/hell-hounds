@@ -98,13 +98,15 @@ Thanks to Marek "Mar_cus" Szumny for eHECK2.
 ### Swap
 The main ability of the army is the Swap ability. All friendly units surrounding the Hell Hounds HQ and the Bitch module are in the so-called Swap Zone, meaning that they are eligible for being swapped.
 
-Once per turn, the Hell Hounds player may swap a single board tile from the Swap Zone with one board tile from their hand. The old tile ends up on the player's hand without any kind of markers (damage, venom, etc.). The newly placed tile may be rotated in any way.
+Once per turn, after performing any mandatory discards (after drawing up to three tiles on hand), the Hell Hounds player may swap a single board tile from the Swap Zone with one board tile from their hand. The old tile ends up on the player's hand without any kind of markers (damage, venom, etc.). The newly placed tile may be rotated in any way.
 
-If the HQ or Bitch are under a Net, then they no longer spread the Swap Zone. A unit placed under a Net cannot be Swapped.
+If the HQ or Bitch are under a Net, then they no longer spread the Swap Zone. A unit placed under a Net cannot be Swapped. If the HQ is netted, player may still swap tiles surrounding the Bitch module (and vice versa).
 
-If a Bitch module is under the influence of a Scoper or Agitator, the opposing player becomes capable of Swapping their own units, too.
+If a Bitch module is under the influence of a Scoper or Agitator, the opposing player becomes capable of Swapping their own units as well.
 
-A unit with a Spy ability connected to the Hell Hounds HQ or the Bitch module becomes swappable.
+It is possible to swap the Scoper or Agitator itself as well (after which the respective effect on the Bitch module ends).
+
+A unit with a Spy ability connected to the Hell Hounds HQ or the Bitch module becomes swappable by their owner.
 
 In team play, allied players may also make use of the Hell Hounds Swap Zone, but they may only Swap their own tiles, not those belonging to other players.
 
@@ -125,15 +127,15 @@ Since the Mutant is in the Swap Zone, the Hell Hounds player may use the Swap ab
 The Hell Hounds player may now normally play the Mutant tile from their hand, discard one Battle tile, and start a Battle with the other tile. The Borgo HQ will receive 4 damage in Initiative 2.
 
 ### Tugging
-The supporting ability of the army is the Tugging ability. Tugging is a skill that is used similarly to Push Back: there is a tugging unit and the tugged unit, which must be adjacent.
+The supporting ability of the army is the Tugging ability. Tugging is a skill that is used similarly to Push Back or Grab: there is a tugging unit and the tugged unit, which must be adjacent.
 
-The tugging unit first moves away from the tugged unit, as if it was pushed back from it, but it may rotate freely in the process. (If the tugging unit is unable to do so, then Tugging may not be used.) Then the tugged unit moves into the space that was previously occupied by the tugging unit, and it may rotate freely in the process.
+The tugging unit first moves away from the tugged unit, as if it was pushed back from it. The unit may rotate freely in the process. (If the tugging unit is unable to do so, then Tugging may not be used.) Then the tugged unit moves into the space that was previously occupied by the tugging unit, and it may rotate freely in the process.
 
 The tugging unit must be a Hell Hounds unit, and the tugged unit must be an enemy unit. Foundation tiles cannot be Tugged.
 
 Tugging may not be used if the tugging or the tugged unit are under a Net.
 
-The Tugger is a unit with an innate Tugging skill, which may be used once per turn. The Tug instant tile allows the Hell Hounds player to perform Tugging once with any unit.
+The Tugger is a unit with an innate Tugging skill, which may be used once per turn. (It has a separate Mobility skill that is independent of Tugging). The Tug instant tile allows the Hell Hounds player to perform Tugging once with any unit of their own.
 
 #### Example
 
