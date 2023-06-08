@@ -155,4 +155,4 @@ Next, the Outpost player must move the Command into the space that was previousl
 
 ## Contact
 * Mail: `phoe@disroot.org`
-* Discord: `phoe#6236`
+* Discord: `phoe_krk`
